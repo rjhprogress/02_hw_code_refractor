@@ -11,7 +11,7 @@ by consolidating CSS selectors and properties for long term sustainability. </p>
 
 <p>These are semantic elements applied to the code casebase, which fall in sequential order:</p>
 
-<code>
+<textarea>
 - <header></header>,
 - <nav></nav>,
 - <main></main>,
@@ -19,12 +19,12 @@ by consolidating CSS selectors and properties for long term sustainability. </p>
 - <article></article>,
 - <aside></aside>,
 - <footer></footer>,
-</code>
+</textarea>
 
 
 <h2>The codebase without accessibility is as follows:</h2>
 
-<code>
+<textarea>
 <!DOCTYPE html>
 <html lang="en-us">
 
@@ -108,10 +108,10 @@ by consolidating CSS selectors and properties for long term sustainability. </p>
 </body>
 
 </html>
-</code>
+</textarea>
 
 <h2>The codebase with accessibilty is as follows:</h2>
-<code>
+<textarea>
 <!DOCTYPE html>
 <html lang="en-us">
 
@@ -196,6 +196,6 @@ by consolidating CSS selectors and properties for long term sustainability. </p>
 
 </html>
 
-</code>
+</textarea>
 
 <p>View the Refractored Website Here: https://rjhprogress.github.io/code_refractor/</p>
