@@ -9,9 +9,9 @@ by consolidating CSS selectors and properties for long term sustainability. </p>
 
 <p>The technologies used to build this website are HTML, and CSS.</p>
 
-<p>These are semantic elements applied to the code casebase, which fall in sequential order:</p>
 
-<textarea>
+<h2>These are semantic elements applied to the code casebase, which fall in sequential order</h2>
+<!--
 - <header></header>,
 - <nav></nav>,
 - <main></main>,
@@ -19,12 +19,11 @@ by consolidating CSS selectors and properties for long term sustainability. </p>
 - <article></article>,
 - <aside></aside>,
 - <footer></footer>,
-</textarea>
+-->
 
+<h2>The codebase without accessibility is as follows:</h2> 
 
-<h2>The codebase without accessibility is as follows:</h2>
-
-<textarea>
+<!-- 
 <!DOCTYPE html>
 <html lang="en-us">
 
@@ -108,19 +107,17 @@ by consolidating CSS selectors and properties for long term sustainability. </p>
 </body>
 
 </html>
-</textarea>
+-->
 
 <h2>The codebase with accessibilty is as follows:</h2>
-<textarea>
+<!--
 <!DOCTYPE html>
 <html lang="en-us">
-
 <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/style.css">
     <title>Horiseon</title>
 </head>
-
 <body>
     <header>
         <h1>Hori<span class="seo">seo</span>n</h1>
@@ -193,9 +190,7 @@ by consolidating CSS selectors and properties for long term sustainability. </p>
         </p>
     </footer>
 </body>
-
 </html>
-
-</textarea>
+-->
 
 <p>View the Refractored Website Here: https://rjhprogress.github.io/code_refractor/</p>
