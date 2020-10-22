@@ -8,7 +8,7 @@ by consolidating CSS selectors and properties for long term sustainability. </p>
 
 <p>The technologies used to build this website are HTML, and CSS.</p>
 
-<h2>The semantic elements I applied to the code casebase, which fall in sequential order are:</h2>
+<p>The semantic elements I applied to the code casebase, which fall in sequential order are:</p>
 header, nav, main, section, article, aside, and footer.
 
 
