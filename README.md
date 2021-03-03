@@ -10,9 +10,3 @@ by consolidating CSS selectors and properties for long term sustainability. </p>
 
 <p>The semantic elements I applied to the code casebase, which fall in sequential order are:</p>
 header, nav, main, section, article, aside, and footer.
-
-
-Copyright (C) 2011 - 2020 Olivier Biot
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated document
